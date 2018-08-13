@@ -4,3 +4,5 @@ fr:
   keyboard: azerty
   test:
     pull: Test récupération subtree via un pull
+    push: Test du push
+    conflict: Pas encore de conflit
