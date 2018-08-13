@@ -2,3 +2,5 @@ fr:
   name: Nom
   firstname: Prénom
   keyboard: azerty
+  test:
+    pull: Test récupération subtree via un pull
